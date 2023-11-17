@@ -2,10 +2,8 @@ package entities;
 
 import entities.enuns.OrderStatus;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Date;
 import java.util.List;
 import java.util.ArrayList;
 
